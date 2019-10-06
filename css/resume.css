@@ -175,19 +175,19 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #007bff !important;
+  background-color: #795548 !important;
 }
 
 .text-primary {
-  color: #007bff !important;
+  color: #795548 !important;
 }
 
 a {
-  color: #007bff;
+  color: #795548;
 }
 
 a:hover, a:focus, a:active {
-  color: #007bff;
+  color: #795548;
 }
 .skillbar {
   position: relative;
